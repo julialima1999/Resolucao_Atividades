@@ -1,0 +1,77 @@
+.container-desafio {
+    display: flex;
+    background-color: #c57f46;
+    border: 10px solid #000000;
+    justify-content: center;
+    width: 75%;
+}
+
+.container-desafio-texto {
+    color: #1100ff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    background-color: #ffffff;
+    border: 10px solid #000000;
+    display: flex;
+    width: 70%;
+    padding: 50px;
+    justify-content: center;
+    margin: 50px;
+}
+
+.container-cores-linhas {
+    display: flex;
+    margin-top: 50px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.div-azul {
+    background-color: #1100ff;
+    height: 50px;
+    width: 75%;
+}
+
+.div-lilas {
+    background-color: #7700ff;
+    height: 50px;
+    width: 50%;
+}
+
+.div-verde {
+    background-color: #00ad00;
+    height: 50px;
+    width: 60%;
+}
+
+.div-amarela {
+    background-color: #e5ff00;
+    height: 50px;
+    width: 40%;
+}
+
+.div-cores-colunas {
+    display: flex;
+    margin-top: 50px;
+    justify-content: center;
+}
+
+.div-vermelha {
+    background-color: #ff0000;
+    height: 50px;
+    width: 100%;
+}
+
+.div-verde-escuro {
+    background-color: #0e9c01;
+    height: 50px;
+    width: 75%;
+}
+
+.div-verde-claro {
+    background-color: #00ff0d;
+    height: 50px;
+    width: 100%;
+}
